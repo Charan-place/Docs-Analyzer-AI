@@ -8,3 +8,4 @@ streamlit
 langchain_community
 python.dotenv
 pypdf
+pdfplumber
