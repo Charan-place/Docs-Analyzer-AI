@@ -8,7 +8,6 @@ from langchain.chains import create_retrieval_chain
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
-from google.cloud import aiplatform
 from dotenv import load_dotenv
 import pdfplumber
 import time
